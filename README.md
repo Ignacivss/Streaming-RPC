@@ -1,4 +1,12 @@
-a simple selfbot for your discord account
+# A simple selfbot for your discord account.
+
+<div align="center">
+    <br>
+    <img src="https://img.shields.io/github/languages/top/Ignacivss/Streaming-RPC?color=%32871265">
+    <img src="https://img.shields.io/github/stars/Ignacivss/Streaming-RPC?color=%23000000&logoColor=000000">
+    <br>
+</div>
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
 ### USE THIS AT YOUR OWN RESPONSIBILITY I AM NOT RESPONSIBLE FOR ACCOUNTS DELETED FOR USING THIS
 
@@ -12,7 +20,7 @@ a simple selfbot for your discord account
 
 ### Setup
 
-1. [Download source code zip](https://github.com/Ignacivss/Streaming-RPC/releases/download/discord/rpc-v2.7z))
+1. [Download source code zip](https://github.com/Ignacivss/Streaming-RPC/releases/download/discord/rpc-v2.7z)
 2. Extract zip
 3. Run `modules.bat` 
 4. and run `run.bat`
@@ -23,3 +31,10 @@ a simple selfbot for your discord account
     <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
 </div>
 
+## License
+
+This is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+
+## Errors?
+
+-   Join the [Discord](https://discord.gg/KcKURCSC39) and ask in general
